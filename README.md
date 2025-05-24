@@ -1,4 +1,4 @@
-#🌄 DYNAMIC IMAGE SLIDER
+# 🌄 DYNAMIC IMAGE SLIDER
 
 A simple front-end project that displays images from a folder using just HTML and CSS. Easily customizable for creating clean image galleries or static photo boards.
 
