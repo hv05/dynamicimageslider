@@ -7,7 +7,7 @@ Displays all images from a folder
 
 Clean and responsive layout
 
-Pure HTML & CSS — no JavaScript or backend
+Pure HTML & CSS or JavaScript - no backend
 
 📦 Use Cases
 Static image galleries
