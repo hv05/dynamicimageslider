@@ -1,17 +1,16 @@
-# 🌄 DYNAMIC IMAGE SLIDER
+#Dynamic Image Slider
+Bring your website to life with this sleek and responsive Dynamic Image Slider! Built using pure HTML, CSS, and JavaScript, this slider offers smooth transitions and automatic cycling through stunning landscape images from around the world. Perfect for portfolios, photo galleries, or any site that needs a modern, eye-catching image showcase.
 
-A simple front-end project that displays images from a folder using just HTML and CSS. Easily customizable for creating clean image galleries or static photo boards.
+✨ Features:
 
-🔧 Features
-Displays all images from a folder
+Fully responsive design — looks amazing on all devices
 
-Clean and responsive layout
+Smooth, seamless animations for a premium feel
 
-Pure HTML & CSS or JavaScript
+Auto-play with easy manual navigation
 
-📦 Use Cases
-Static image galleries
+Lightweight and easy to customize
 
-Portfolio sections
+🚀 See it in action: https://hv05.github.io/dynamicimageslider/
 
-Photo collections
+Enhance your project’s visual appeal effortlessly with this elegant image slider!
